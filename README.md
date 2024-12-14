@@ -7,4 +7,4 @@ Credit score classification is a critical task in the financial industry, enabli
 
 **Good Credit**: Reflecting low risk and strong creditworthiness.
 
-To achieve this, we utilize PySpark, a robust framework for large-scale data processing and machine learning. PySpark's distributed computing capabilities make it well-suited for handling large datasets efficiently. We implement and evaluate classification models, including Logistic Regression and Random Forest, to identify the most effective approach for predicting credit scores. The project emphasizes both technical implementation and the practical significance of data-driven insights in credit risk assessment.
+To achieve this, I have utilized PySpark, a robust framework for large-scale data processing and machine learning. PySpark's distributed computing capabilities make it well-suited for handling large datasets efficiently. We implement and evaluate classification models, including Logistic Regression and Random Forest, to identify the most effective approach for predicting credit scores.
